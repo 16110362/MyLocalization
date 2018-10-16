@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyLocalization</string>
+
+    <string name="frm_head">Remplissez ce formulaire pour vous inscrire en tant qu\'utilisateur</string>
+    <string name="frm_name">Nom complet</string>
+    <string name="frm_Email">Adresse électronique</string>
+    <string name="frm_Phone">Numéro de téléphone</string>
+    <string name="frm_Pwd">mot de passe</string>
+    <string name="frm_check">J\'ai lu et j\'accepte les conditions</string>
+
+    <string name="btn_Submit">SOUMETTRE</string>
+    <string name="btn_Lang">DÉFINIR LA LANGUE</string>
+
+</resources>

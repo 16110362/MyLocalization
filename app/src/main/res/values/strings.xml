@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyLocalization</string>
+
+    <string name="frm_head">Fill in this form to register as user</string>
+    <string name="frm_name">Full name</string>
+    <string name="frm_Email">Email Address</string>
+    <string name="frm_Phone">Phone nmber</string>
+    <string name="frm_Pwd">Password</string>
+    <string name="frm_check">I have read and agree the terms</string>
+
+    <string name="btn_Submit">SUBMIT</string>
+    <string name="btn_Lang">SET LANGUAGE</string>
+
+</resources>
